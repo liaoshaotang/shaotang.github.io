@@ -1,0 +1,98 @@
+@charset "UTF-8";
+.left{
+	float:left;
+}
+#box{
+	width:100%;
+}
+.box2{
+	width:930px;
+	height:600px;
+	float:right;
+	background-color:#FFFFFF;
+	
+}
+.box1{
+	width:445px;
+	float:left;
+	height:600px;
+	background-color:#FFF6ED;
+	margin-left:10px;
+	text-align: right;
+	overflow:auto;
+}
+/*第二板块*/
+.box3{
+	width:1415px;
+	height:600px;
+	margin-top:10px;
+}
+.box6{
+	width:450px;
+	height:600px;
+	float:right;
+	background:url(images/zhousan122.jpg)
+		
+}
+.box7{
+	width:450px;
+	height:600px;
+	margin-right:30px;
+	float:right;
+	background:url(images/zhousan121.jpg)
+}
+.xq{
+	left:1343px;
+	top:148px;
+	position:absolute;
+	width:80px; 
+	height:200px;
+	margin-top:10px;
+	text-align: center;
+}
+#xqxz{
+	height:30px;
+	line-height:30px;
+	padding-right:5px;
+	color:#fff;
+	background-color:#732107;
+}
+.box4{
+	width:1302;
+	height:30px;
+	margin-top:10px;
+	text-align:center;
+}
+.box5{
+	width:450px;
+	height:30px;
+	text-align:center;
+	overflow:auto;
+	margin-left:420px;
+}
+#menu{
+	width:1290px;
+	height:40px;
+	border-top:0px solid#000000;
+}
+#menu a{
+	font-family:方正清刻本悦宋简体;
+	font-size:18px;
+	color:#000000;
+	line-height:36px;
+	padding:0px 30px;
+	text-decoration:none;
+	display:inline-block;
+}
+#menu a:hover,#menu a.selected{
+	color:#FFFFFF;
+	background-color:#732107;
+}
+.footer{
+	width:1302px;
+	border:1px solid auto;
+	text-align:center;
+	margin-top:20px;
+	font-size:9px;
+	
+}
